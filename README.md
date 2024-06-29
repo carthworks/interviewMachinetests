@@ -1,3 +1,6 @@
+![image](https://github.com/carthworks/interviewMachinetests/assets/78200/66f696c2-64f2-4e8b-9abc-83ac7b3768e7)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
